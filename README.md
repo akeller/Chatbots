@@ -1,5 +1,5 @@
-# WeddingChatBot
-
+# Chatbots
+My collection of bots
 
 Todo Items
 * Integrate with Messenger
